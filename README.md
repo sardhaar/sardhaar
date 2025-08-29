@@ -32,6 +32,7 @@
 <tr>
 <td width="50%" valign="top">
 
+
 ### 🚀 Currently Working On
 - AI & ML solutions for real-world problems
 - Sales & Survey Analytics dashboards
@@ -131,8 +132,7 @@
 - ✅ **Azure Data Engineer Associate – Microsoft (2024)**  
 - ✅ **NPTEL Cloud Computing (2023)**  
 - ✅ **HackerRank Python Certified (2024)**  
-- ✅ **Industrial Internship Certification – TriaRight & APSCHE (2025)**  
-
+- ✅ **Industrial Internship Certification – TriaRight & APSCHE (2025)**    
 <!-- Connect -->
 <div align="center">
   
@@ -154,7 +154,8 @@
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
   
+   <div align="center"> *AI knowledge grows fastest when applied to practical solutions.*
   
+  <!-- Footer --> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+ 
 </div>
-<!-- Footer --> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-<div align="center"> *Thanks for visiting! 😄* 
